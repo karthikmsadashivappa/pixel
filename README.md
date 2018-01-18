@@ -1,24 +1,7 @@
-# README
+THE PIXEL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It's a kind of dribble application where the users uploads their inspirations and others can like each other.
 
-Things you may want to cover:
+Screenshot of running Application
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="screenshot.png" alt="">
